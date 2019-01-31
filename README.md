@@ -26,6 +26,13 @@ Then build the plugin:
 ```
 $ cmake .. && make
 ```
+
+And update the GAZEBO_PLUGIN_PATH environment variable:
+
+```
+$ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:${PWD}
+```
+
 Once the plugin is built, navigate back to the root directory and open the world in Gazebo:
 
 ```
