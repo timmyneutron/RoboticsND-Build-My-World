@@ -1,7 +1,7 @@
 # Udacity Robotics Nanodegree
 # Project #1: My World
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshot.jpg)
 
 ## Introduction
 This is a project for Udacity's Robotics NanoDegree. It's a simulated world built in Gazebo that includes a building, a robot, and a plugin.
