@@ -33,10 +33,10 @@ And update the GAZEBO_PLUGIN_PATH environment variable:
 $ export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:${PWD}
 ```
 
-Once the plugin is built, navigate back to the root directory and open the world in Gazebo:
+Once the plugin is built, open the world in Gazebo:
 
 ```
-$ gazebo world/timsWorld
+$ gazebo ../world/timsWorld
 ```
 
 The world should open in Gazebo, and the terminal should display the message:
