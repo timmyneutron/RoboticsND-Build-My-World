@@ -1,5 +1,5 @@
 # Udacity Robotics Nanodegree
-# Project #1: My World
+# Project #1: Build My World
 
 ![Screenshot](./screenshot.jpg)
 
