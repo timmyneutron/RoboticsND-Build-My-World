@@ -1,3 +1,0 @@
-/home/workspace/RoboticsND-MyWorld/build/CMakeFiles/edit_cache.dir
-/home/workspace/RoboticsND-MyWorld/build/CMakeFiles/timsAwesomePlugin.dir
-/home/workspace/RoboticsND-MyWorld/build/CMakeFiles/rebuild_cache.dir
